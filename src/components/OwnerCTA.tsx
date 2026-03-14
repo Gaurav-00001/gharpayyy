@@ -23,7 +23,7 @@ const OwnerCTA = () => {
             </span>
             <h2 className="text-3xl md:text-5xl font-display font-bold mt-3 mb-6">
               Grow Your PG Business with{" "}
-              <span className="text-secondary">Gharpayy</span>
+              <span className="text-secondary">NivasHub</span>
             </h2>
             <p className="text-primary-foreground/70 mb-10 text-lg leading-relaxed max-w-lg">
               Join 100+ property owners who manage their PGs effortlessly. Get verified leads, automate rent collection, and maximize occupancy.
