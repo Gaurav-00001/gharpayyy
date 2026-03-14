@@ -11,7 +11,7 @@ const Footer = () => {
                 <Home className="w-4 h-4 text-secondary-foreground" />
               </div>
               <span className="font-display text-xl font-bold">
-                Ghar<span className="text-secondary">payy</span>
+                Nivas<span className="text-secondary">Hub</span>
               </span>
             </div>
             <p className="text-sm text-primary-foreground/50 leading-relaxed">
@@ -44,11 +44,11 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-primary-foreground/50">
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-secondary" />
-                hello@gharpayy.com
+                hello@123.com
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-secondary" />
-                +91 98765 43210
+                +91 1234567890
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-secondary mt-0.5" />
@@ -59,7 +59,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-primary-foreground/10 text-center text-sm text-primary-foreground/30">
-          © {new Date().getFullYear()} Gharpayy. All rights reserved.
+          © {new Date().getFullYear()} NivasHub. All rights reserved.
         </div>
       </div>
     </footer>
