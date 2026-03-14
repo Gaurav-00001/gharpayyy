@@ -105,7 +105,7 @@ const ListPG = () => {
         </a>
 
         <h1 className="font-display text-2xl font-bold text-foreground mb-1">List Your PG</h1>
-        <p className="text-muted-foreground text-sm mb-8">Fill in the details to list your property on Gharpayy.</p>
+        <p className="text-muted-foreground text-sm mb-8">Fill in the details to list your property on NivasHub.</p>
 
         <form onSubmit={handleSubmit} className="space-y-6">
           {/* Basic Info */}
