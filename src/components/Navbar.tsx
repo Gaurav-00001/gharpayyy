@@ -25,7 +25,7 @@ const Navbar = () => {
             <Home className="w-4 h-4 text-secondary-foreground" />
           </div>
           <span className="font-display text-xl font-bold text-foreground">
-            Ghar<span className="text-secondary">payy</span>
+            Nivas<span className="text-secondary">Hub</span>
           </span>
         </a>
 
