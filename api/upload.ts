@@ -13,7 +13,7 @@ export default async function handler(request: VercelRequest, response: VercelRe
         // You can add logic here to check user sessions
         return {
           allowedContentTypes: ['image/jpeg', 'image/png', 'image/webp'],
-          tokenPayload: JSON.stringify({ project: 'gharpayy' }),
+          tokenPayload: JSON.stringify({ project: 'NivasHub' }),
         };
       },
       onUploadCompleted: async ({ blob, tokenPayload }) => {
