@@ -71,7 +71,7 @@ const Auth = () => {
             {isLogin ? "Welcome back" : "Create your account"}
           </h1>
           <p className="text-muted-foreground text-sm mt-1">
-            {isLogin ? "Sign in to manage your PG listings" : "Join Gharpayy to find or list PG accommodations"}
+            {isLogin ? "Sign in to manage your PG listings" : "Join NivasHub to find or list PG accommodations"}
           </p>
         </div>
 
