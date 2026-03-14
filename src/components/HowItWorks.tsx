@@ -38,7 +38,7 @@ const HowItWorks = () => {
             Simple Process
           </span>
           <h2 className="text-3xl md:text-5xl font-display font-bold text-foreground mt-3 mb-4">
-            How Gharpayy Works
+            How NivasHub Works
           </h2>
           <p className="text-muted-foreground max-w-lg mx-auto">
             From discovery to move-in, we make the entire PG experience seamless.
